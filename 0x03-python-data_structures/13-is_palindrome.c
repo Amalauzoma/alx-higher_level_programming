@@ -69,48 +69,4 @@ int is_palindrome(listint_t **head)
     return (1);
 
   return (0);
-}                                                                                                                                                
-                                                                                                                                                
-                                                                                                                                                
-                                                                                                                                                
-                                                                                                                                                
-                                                                                                                                                
-                                                                                                                                                
-                                                                                                                                                
-                                                                                                                                                
-                                                                                                                                                
-                                                                                                                                                
-                                                                                                                                                
-                                                                                                                                                
-                                                                                                                                                
-                                                                                                                                                
-                                                                                                                                                
-                                                                                                                                                
-                                                                                                                                                
-                                                                                                                                                
-                                                                                                                                                
--UUU:**--F1  13-is_palindrome.c   All L1     (C/*l Abbrev) ---------------------                                                                
-                                                                                                                                                
-                                                                                                                                                
-                                                                                                                                                
-                                                                                                                                                
-                                                                                                                                                
-                                                                                                                                                
-                                                                                                                                                
-                                                                                                                                                
-                                                                                                                                                
-                                                                                                                                                
-                                                                                                                                                
-                                                                                                                                                
-                                                                                                                                                
-                                                                                                                                                
-                                                                                                                                                
-                                                                                                                                                
-                                                                                                                                                
-                                                                                                                                                
-                                                                                                                                                
-                                                                                                                                                
-                                                                                                                                                
-                                                                                                                                                
-                                                                                                                                                
-                                                 
+} 
