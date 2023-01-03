@@ -1,0 +1,1 @@
+More on objects(Instances of a class: Describes how objects are designed, with respect to which methods and attributes it uses.)
