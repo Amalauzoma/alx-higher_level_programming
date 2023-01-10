@@ -1,0 +1,1 @@
+Inheritance, Subclasses tend to inherit instances of the parent class.
