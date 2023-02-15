@@ -1,0 +1,1 @@
+SQL - Structured Query Languaage. Syntax used to structurally query and extract information from Databases.
