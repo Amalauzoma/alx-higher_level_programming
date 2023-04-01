@@ -10,10 +10,5 @@ if __name__ == "__main__":
     url = sys.argv[1]
 
     r = requests.get(url)
-    print(r.headers.get("X-Request-Id"))
-Footer
-© 2023 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Securit
+    headers = r.headers.get('X-Request-Id')
+    print(headers)
